@@ -18,10 +18,10 @@ class Skills extends Desenvolvedor {
 
 <h1 align="center">👋 Contact me</h1>
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🏡 ![website][website] **|** 
+🐦 ![twitter][twitter] **|** 
+📺 ![youtube][youtube] **|** 
+📷 ![instagram][instagram] **|** 
+👔 ![linkedin][linkedin]
 
 
