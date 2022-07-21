@@ -1,12 +1,12 @@
 <h1 align="center">👋 Welcome to my profile</h1>
 
-```py
+```js
 import Desenvolvedor from 'SeuNick';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Seu nome';
-  area    = 'Sua área';
-  trabalho  = 'Onde trabalha';
+  nome = 'Seu nome';
+  area = 'Sua área';
+  trabalho = 'Onde trabalha';
   local = 'Local';
 }
 
