@@ -6,7 +6,7 @@ import Dev from 'FranciscoAraujo';
 class About extends Desenvolvedor {
   name = 'Francisco';
   area = 'Full Stack';
-  trabalho = 'House';
+  work = 'House';
   local = 'Portugal';
 }
 
