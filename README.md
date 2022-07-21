@@ -15,4 +15,5 @@
 ###
 
 <h1 align="center"> Music </h1>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qmsn653gfkmhbxe3ozstyf3puu)
+
+![Music](https://spotify-recently-played-readme.vercel.app/api?user=31qmsn653gfkmhbxe3ozstyf3puu&unique={true|1|on|yes})
