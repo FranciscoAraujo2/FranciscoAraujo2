@@ -1,19 +1,18 @@
 <h1 align="center">👋 Welcome to my profile</h1>
 
 ```js
-import Desenvolvedor from 'SeuNick';
+import Desenvolvedor from 'FranciscoAraujo';
 
-class SobreMim extends Desenvolvedor {
-  nome = 'Seu nome';
-  area = 'Sua área';
-  trabalho = 'Onde trabalha';
-  local = 'Local';
+class About extends Desenvolvedor {
+  name = 'Francisco';
+  area = 'Full Stack';
+  trabalho = 'House';
+  local = 'Portugal';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Suas linguagens'];
-  bibliotecas  = ['Suas bibliotecas'];
-  frameworks = ['Seus frameworks'];
+  linguagens  = ['Html/Css , Js , Py'];
+  bibliotecas  = ['Disnake'];
 }
 ```
 
