@@ -18,7 +18,7 @@ class Skills extends Desenvolvedor {
 
 <h1 align="center">👋 Contact me</h1>
 
-🏡  [website][website] **|** 
+🏡  [website][website] **|** <br>
 🐦  [twitter](https://twitter.com/Francisc0Araujo) **|** <br>
 📺  [youtube][youtube] **|** <br>
 📷  [instagram][instagram] **** <br>
