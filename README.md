@@ -18,10 +18,13 @@ class Skills extends Desenvolvedor {
 
 <h1 align="center">👋 Contact me</h1>
 
-🏡  [website][website] **|** <br>
+🏡  [website][website]  <br>
 🐦  [twitter](https://twitter.com/Francisc0Araujo) **|** <br>
-📺  [youtube][youtube] **|** <br>
-📷  [instagram][instagram] **** <br>
-👔  [linkedin][linkedin]
+📺  [youtube](https://www.youtube.com/channel/UCuhxnE77D801NVH-S-w4K6w)  <br>
+📷  [instagram](https://www.instagram.com/francisco.araujo_2/?theme=dark)  <br>
+📷  [facebook](https://www.facebook.com/profile.php?id=100028511225457)  <br>
+👔  [linkedin](https://www.linkedin.com/in/francisco-ara%C3%BAjo-255103241/) <br>
+👔  [dev.to](https://dev.to/franciscoaraujo) <br>
+
 
 
