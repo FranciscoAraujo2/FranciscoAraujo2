@@ -2,6 +2,6 @@
 
 ###
 
-<align="left"> 🔭 I’m currently working on [DiscordBot](https://github.com/FranciscoAraujo2/DiscordBot)</h4>
+🔭 I’m currently working on [DiscordBot](https://github.com/FranciscoAraujo2/DiscordBot)</h4>
 
 ###
