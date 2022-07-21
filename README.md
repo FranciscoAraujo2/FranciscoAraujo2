@@ -24,7 +24,7 @@ class Skills extends Desenvolvedor {
 **📷  [instagram](https://www.instagram.com/francisco.araujo_2/?theme=dark)  <br>**
 **📷  [facebook](https://www.facebook.com/profile.php?id=100028511225457)  <br>**
 **👔  [linkedin](https://www.linkedin.com/in/francisco-ara%C3%BAjo-255103241/) <br>**
-**👔  [dev.to](https://dev.to/franciscoaraujo) <br>**
+**💻  [dev.to](https://dev.to/franciscoaraujo) <br>**
 
 
 
