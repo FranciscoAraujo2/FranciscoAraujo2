@@ -11,8 +11,8 @@ class About extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Html/Css , Js , Py'];
-  bibliotecas  = ['Disnake'];
+  langs  = ['Html/Css , Js , Py'];
+  bib  = ['Disnake'];
 }
 ```
 
