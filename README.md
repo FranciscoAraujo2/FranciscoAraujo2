@@ -19,10 +19,10 @@ class Skills extends Dev {
 <h1 align="center">👋 Contact me</h1>
 
 **🏡  [website](#)  <br>**
-**🐦  [twitter](https://twitter.com/Francisc0Araujo) <br>** **📷  [facebook](https://www.facebook.com/profile.php?id=100028511225457)  <br>**
-**📺  [youtube](https://www.youtube.com/channel/UCuhxnE77D801NVH-S-w4K6w)  <br>**
+**🐦  [twitter](https://twitter.com/Francisc0Araujo)** 
+**📷  [facebook](https://www.facebook.com/profile.php?id=100028511225457)**
 **📷  [instagram](https://www.instagram.com/francisco.araujo_2/?theme=dark)  <br>**
-
+**📺  [youtube](https://www.youtube.com/channel/UCuhxnE77D801NVH-S-w4K6w)  <br>**
 **👔  [linkedin](https://www.linkedin.com/in/francisco-ara%C3%BAjo-255103241/) <br>**
 **💻  [dev.to](https://dev.to/franciscoaraujo) <br>**
 
