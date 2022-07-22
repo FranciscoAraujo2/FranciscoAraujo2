@@ -3,14 +3,14 @@
 ```js
 import Dev from 'FranciscoAraujo';
 
-class About extends Desenvolvedor {
+class About extends Dev {
   name = 'Francisco';
   area = 'Full Stack';
   work = 'House';
   local = 'Portugal';
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Dev {
   langs  = ['Html/Css , Js , Py'];
   bib  = ['Disnake'];
 }
